@@ -1,0 +1,131 @@
+* {
+  max-width: 1200px;
+  background-color: #3366FF;
+  color: #FFFFFF;
+}
+
+img, embed, object, video {
+  max-width: 100%;
+}
+
+*{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+figure {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.body {
+  margin: 100px;
+  display: flex;
+}
+
+.bannermain {
+  display: flex;
+  text-align: right;
+  max-width: 1200px;
+  flex-flow: row wrap;
+
+}
+
+.banner1{
+
+}
+
+.gxu {
+
+}
+
+.banner2 {
+padding-left: 10px;
+
+}
+
+.muji {
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+  order:2;
+  font-size: 30px;
+  }
+
+.mujidesc {
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+  order:3;
+  font-size: 20px;
+}
+
+.mainimage {
+
+}
+
+.guilin {
+    max-width: 1200px;
+
+
+}
+
+.guilindesc{
+  font-size: 20px;
+}
+
+.work{
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-width: 100%;
+  text-align: center;
+}
+
+.image1 {
+
+}
+.image2 {
+
+}
+.image3 {
+
+}
+
+.desc1 {
+
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.desc2 {
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.desc3 {
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.link1{
+
+  font-size: 15px;
+}
+.link2 {
+
+  font-size: 15px;
+  }
+.link3 {
+
+  font-size: 15px;
+  }
